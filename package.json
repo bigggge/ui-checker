@@ -1,0 +1,15 @@
+{
+  "name": "ui-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pixelmatch": "^5.2.1",
+    "puppeteer": "^7.0.0"
+  }
+}
